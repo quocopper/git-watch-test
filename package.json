@@ -4,7 +4,7 @@
   "description": "Sandbox for testing git watching auto merging etc...",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "node ./tests/randomTest.js"
   },
   "repository": {
     "type": "git",
