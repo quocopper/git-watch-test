@@ -1,0 +1,23 @@
+{
+  "name": "git-watch-test",
+  "version": "1.0.0",
+  "description": "Sandbox for testing git watching auto merging etc...",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quocopper/git-watch-test.git"
+  },
+  "keywords": [
+    "Sandbox",
+    "Test"
+  ],
+  "author": "Copperleaf/Quoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quocopper/git-watch-test/issues"
+  },
+  "homepage": "https://github.com/quocopper/git-watch-test#readme"
+}
